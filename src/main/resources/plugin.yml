@@ -1,0 +1,10 @@
+main: io.github.p250.Main
+version: 1.0
+name: ViewStats
+author: [johnny boy#8125]
+depend: [PlaceholderAPI]
+
+commands:
+  stats:
+    usage: /stats <player>
+    description: views the DeluxeCombat stats of specified player; yourself if none specified.
